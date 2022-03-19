@@ -1,4 +1,6 @@
-# fitnes
+# Exercises planer
+
+admin: pagi@gmail.com pass: 12345 user: lazar@gmail.com pass: lazar123
 
 ## Project setup
 ```
